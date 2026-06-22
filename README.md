@@ -17,4 +17,4 @@ Sellintelligence is a sales intelligence project focused on analyzing customer d
 
 ## License
 
-This project is available under the terms defined in the repository.
+This project is available under the terms defined in the repository..
