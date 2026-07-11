@@ -1,0 +1,13 @@
+Model,Class,Accuracy,ROC_AUC,PR_AUC,Precision,Recall,F1
+Logistic Regression,Overall,0.7544,0.7815,0.945,0.8716,0.7544,0.792
+Logistic Regression,Class 0,,,,0.299,0.7323,0.4246
+Logistic Regression,Class 1,,,,0.9525,0.7575,0.8439
+Decision Tree,Overall,0.8331,0.625,0.9043,0.8364,0.8331,0.8347
+Decision Tree,Class 0,,,,0.3333,0.3485,0.3407
+Decision Tree,Class 1,,,,0.9074,0.9016,0.9045
+Random Forest,Overall,0.8831,0.8103,0.9485,0.8763,0.8831,0.8375
+Random Forest,Class 0,,,,0.8235,0.0707,0.1302
+Random Forest,Class 1,,,,0.8838,0.9979,0.9374
+Gradient Boosting,Overall,0.91,0.8168,0.9504,0.905,0.91,0.8923
+Gradient Boosting,Class 0,,,,0.8462,0.3333,0.4783
+Gradient Boosting,Class 1,,,,0.9133,0.9914,0.9508

@@ -1,0 +1,17 @@
+Model,Actual,Predicted,Count
+Logistic Regression,Not Converted,Not Converted,145
+Logistic Regression,Not Converted,Converted,53
+Logistic Regression,Converted,Not Converted,340
+Logistic Regression,Converted,Converted,1062
+Decision Tree,Not Converted,Not Converted,69
+Decision Tree,Not Converted,Converted,129
+Decision Tree,Converted,Not Converted,138
+Decision Tree,Converted,Converted,1264
+Random Forest,Not Converted,Not Converted,14
+Random Forest,Not Converted,Converted,184
+Random Forest,Converted,Not Converted,3
+Random Forest,Converted,Converted,1399
+Gradient Boosting,Not Converted,Not Converted,66
+Gradient Boosting,Not Converted,Converted,132
+Gradient Boosting,Converted,Not Converted,12
+Gradient Boosting,Converted,Converted,1390
