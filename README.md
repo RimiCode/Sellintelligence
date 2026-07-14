@@ -1,7 +1,5 @@
 # Sellintelligence — Digital Marketing Campaign Conversion Prediction
 
-![Python](https://img.shields.io/badge/Python-3.13-blue) ![scikit--learn](https://img.shields.io/badge/scikit--learn-ML-orange) ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow) ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
-
 Machine learning capstone project (Boston Institute of Analytics) that predicts which customers will convert from a digital marketing campaign — so ad budget goes to the right people instead of being sprayed at everyone. The predictions power an AI lead-scoring system, a churn-risk analysis, and a fully interactive 3-page Power BI dashboard for ROAS (return on ad spend) optimization.
 
 ---
@@ -14,7 +12,7 @@ Marketing teams show ads to everyone, but not everyone converts. Every impressio
 
 | Model | Accuracy | ROC-AUC | PR-AUC | F1 (weighted) | **Class-0 Recall** |
 |---|---|---|---|---|---|
-| **Logistic Regression** ⭐ | 0.754 | 0.781 | 0.945 | 0.792 | **0.732** |
+| **Logistic Regression** (champion) | 0.754 | 0.781 | 0.945 | 0.792 | **0.732** |
 | Decision Tree | 0.833 | 0.625 | 0.904 | 0.835 | 0.348 |
 | Random Forest | 0.883 | 0.810 | 0.949 | 0.838 | 0.071 |
 | Gradient Boosting | 0.910 | 0.817 | 0.950 | 0.892 | 0.333 |
